@@ -1,9 +1,24 @@
 # 🐟 Toko Ikan Cupang Yudi
 
-Project CRUD Laravel untuk memenuhi tugas pemrograman web.
+Project sistem informasi katalog dan manajemen stok ikan cupang berbasis web menggunakan Framework Laravel.
 
-## 🚀 Cara Instalasi di Lokal
+## 🛠️ Fitur Utama
+- **Katalog Ikan:** Menampilkan koleksi ikan cupang secara dinamis dari database.
+- **Manajemen Stok (CRUD):** Tambah, Edit, dan Hapus data ikan (Admin).
+- **Upload Gambar:** Fitur unggah foto ikan ke dalam sistem.
 
-1. **Clone project**
+## 🚀 Prosedur Instalasi (Lokal)
+
+Ikuti langkah-langkah berikut untuk menjalankan project di komputer Anda:
+
+1. **Clone Repository**
    ```bash
    git clone [https://github.com/yudi240180180-cmyk/toko_ikan_cupang.git](https://github.com/yudi240180180-cmyk/toko_ikan_cupang.git)
+   cd toko_ikan_cupang
+
+   ---
+## 👤 Identitas Pengembang
+- **Nama:** Yudi
+- **NIM:** 240180180
+- **Prodi:** Teknik Informatika
+- **Universitas:** [Nama Universitas Kamu]
