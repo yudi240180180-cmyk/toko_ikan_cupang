@@ -20,5 +20,5 @@ Ikuti langkah-langkah berikut untuk menjalankan project di komputer Anda:
 ## 👤 Identitas Pengembang
 - **Nama:** Yudi
 - **NIM:** 240180180
-- **Prodi:** Teknik Informatika
-- **Universitas:** [Nama Universitas Kamu]
+- **Prodi:** Sistem informasi
+- **Universitas:** [Universitas Malikussaleh]
