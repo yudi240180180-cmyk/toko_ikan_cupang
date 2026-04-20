@@ -4,6 +4,6 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\FishController;
 
 Route::get('/', function () {
-    return view('welcome');
+    return redirect('/ikan');
 });
 Route::resource('ikan', FishController::class);
