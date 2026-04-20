@@ -32,6 +32,7 @@
         @forelse($semuaIkan as $ikan)
             <div class="card">
                 @if($ikan->gambar)
+                    {{-- Di sini disesuaikan dengan folder 'public/storage/ikan' --}}
                     <img src="{{ asset('storage/ikan/' . $ikan->gambar) }}" alt="{{ $ikan->nama_ikan }}">
                 @else
                     <img src="https://via.placeholder.com/250x180?text=Tidak+Ada+Foto" alt="No Image">
