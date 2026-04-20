@@ -12,13 +12,9 @@ Project sistem informasi katalog dan manajemen stok ikan cupang berbasis web men
 Ikuti langkah-langkah berikut untuk menjalankan project di komputer Anda:
 
 1. **Clone Repository**
+   Klik link berikut: [https://github.com/yudi240180180-cmyk/toko_ikan_cupang.git](https://github.com/yudi240180180-cmyk/toko_ikan_cupang.git)
+   
+   Atau jalankan perintah di terminal:
    ```bash
-   git clone [https://github.com/yudi240180180-cmyk/toko_ikan_cupang.git](https://github.com/yudi240180180-cmyk/toko_ikan_cupang.git)
+   git clone https://github.com/yudi240180180-cmyk/toko_ikan_cupang.git
    cd toko_ikan_cupang
-
-   ---
-## 👤 Identitas Pengembang
-- **Nama:** Yudi
-- **NIM:** 240180180
-- **Prodi:** Sistem informasi
-- **Universitas:** [Universitas Malikussaleh]
